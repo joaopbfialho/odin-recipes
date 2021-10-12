@@ -1,0 +1,59 @@
+h1,h2,h3{
+    color:#05516e;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 54px;
+}
+h2 {
+    font-size: 30px;
+}
+h3{
+    font-size:24px;
+    text-decoration: underline;
+}
+
+
+body{
+    background-color:#F8EA8C
+}
+
+#cook{
+    width: 300px;
+    height: auto;
+}
+
+#waffles,#eggs,#pancakes{
+    width: 500px;
+    height: auto;
+}
+ 
+p{
+    color:#0a6386;
+    font-size: 24px;
+    font-family: Helvetica, sans-serif;  
+    font-weight: 540;
+}
+
+ul,ol{
+    font-size: 20px;
+    font-weight:550;
+    color:#03161f;
+    font-family: Helvetica, sans-serif;
+    line-height: 22px;
+    
+}
+
+a,a:visited{
+    color:#16779e;
+    font-size: 28px;
+    line-height: 40px;
+}
+
+a:hover{
+    color: #2490bb;
+    text-shadow: 0.2px 0.2px ;
+}
+

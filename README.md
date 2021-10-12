@@ -1,1 +1,1 @@
-This is my first project while learning web development through The Odin Project. It's a very simple recipes page made to practice HTML5 (boilerplate and basic structure).
+This is my first project made when I started learning web development through The Odin Project. It's a very simple recipes page made to practice HTML5 and CSS3 basic structures.
