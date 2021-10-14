@@ -20,12 +20,12 @@ body{
 }
 
 #cook{
-    width: 300px;
+    width: auto;
     height: auto;
 }
 
 #waffles,#eggs,#pancakes{
-    width: 500px;
+    width: auto;
     height: auto;
 }
  
