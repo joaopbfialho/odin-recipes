@@ -1,16 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  border: 2px solid red;
 }
 
 html {
   font-size: 62.5%;
-  height: 100%;
-  background: #fffcbf;
   background: -webkit-radial-gradient(top left, #fffcbf, #ffe559);
-  background: -moz-radial-gradient(top left, #fffcbf, #ffe559);
-  background: radial-gradient(to bottom right, #fffcbf, #ffe559);
 }
 .smallText {
   display: none;
@@ -78,13 +73,6 @@ h1 {
 h2 {
   font-size: 3.2rem;
   text-decoration: underline;
-}
-
-p {
-  color: #0a6386;
-  font-size: 24px;
-  font-family: Helvetica, sans-serif;
-  font-weight: 540;
 }
 
 a,
