@@ -61,7 +61,6 @@ body {
   max-width: 45ch;
 }
 
-<<<<<<< HEAD
 .ingredients,
 .directions {
   display: flex;
@@ -79,18 +78,13 @@ h1 {
 h2 {
   font-size: 3.2rem;
   text-decoration: underline;
-=======
-
 }
 
-
- 
-p{
-    color:#0a6386;
-    font-size: 24px;
-    font-family: Helvetica, sans-serif;  
-    font-weight: 540;
->>>>>>> 0b383d6cae199a1f5d2935c994e2bd8f00932310
+p {
+  color: #0a6386;
+  font-size: 24px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 540;
 }
 
 a,
@@ -170,7 +164,6 @@ img {
   }
   .imgContainer {
     flex: auto;
-<<<<<<< HEAD
     margin: 0 0rem;
     padding: 0;
     width: 100%;
@@ -178,6 +171,3 @@ img {
     justify-content: center;
   }
 }
-=======
-    }
->>>>>>> 0b383d6cae199a1f5d2935c994e2bd8f00932310
