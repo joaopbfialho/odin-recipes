@@ -119,12 +119,14 @@ img {
 
 @media (max-width: 800px) {
   body {
-    flex-direction: column-reverse;
+    flex-direction: column;
     margin: 4rem;
     align-items: center;
+    max-width: 100vw;
   }
+
   html {
-    width: 100vw;
+    max-width: 100vw;
   }
   .sideBar {
     font-size: 2rem;
@@ -132,14 +134,21 @@ img {
     margin: 10px 0;
     box-shadow: none;
     gap: 2rem;
+    flex: auto;
   }
 
   .menu {
     gap: 2rem;
     margin-top: 0px;
     list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+    max-width: 100vw;
   }
-
+  li {
+    flex: auto;
+  }
   .smallText {
     display: inline;
   }
